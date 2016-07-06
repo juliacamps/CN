@@ -1,0 +1,27 @@
+
+ Exercise 1: Implementation of complex network models
+ ----------------------------------------------------
+
+    Part 1
+
+    Generation of Erdös-Rényi (ER) networks. Implement either the G(N,K) or G(N,p) model. Build networks of different sizes (from 1000 to 100000 nodes), and with different average degree (2, 4, 6, ...). Compute the degree distribution and the complementary cumulative degree distribution.
+
+    Part 2
+
+    Choose one of the following options:
+
+    a) Generation of networks using the Barabasi & Albert (BA) preferential attachment model. Compute the degree distribution and the complementary cumulative degree distribution, using histograms in log scale. Fitting of the power-law exponent from the histograms, and using the maximum likelihood estimation (MLE). Build networks of different sizes (from 1000 to 100000 nodes), and with different average degree (2, 4, 6, ...).
+
+    b) Implementation of the Configuration Model (CM). Generate networks of different sizes following Poisson degree distributions (ER) and power-law degree distributions (scale-free networks, SF) with different exponents (2.2, 2.5, 2.7). For the latter, calculate the exponents from the histograms, and using the maximum likelihood estimation (MLE)..
+
+    Optional to increase mark: implement both BA and CM models.
+
+    Delivery
+
+    The delivery must include:
+        Source code
+        Generated networks in Pajek format
+        Document with the design decisions, plots of the degree distributions (histograms of PDF and CCDF) and values of the fitted exponents (if applicable)
+
+		
+	

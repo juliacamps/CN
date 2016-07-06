@@ -1,0 +1,24 @@
+
+ Exercise 3: SIS epidemic spreading simulation
+ ---------------------------------------------
+
+	Monte Carlo simulation of a SIS epidemic spreading process in complex networks. We are interested in the 
+	calculation of the fraction of infected nodes ρ, in the stationary state, as a function of the infection rate 
+	β (at least 51 values, Δβ=0.02), for several values of the recovery rate μ (e.g. 0.1, 0.5, 0.9). Try with 
+	networks of several kinds (e.g. Erdös-Rényi, scale-free, real) and different sizes (at least 500 nodes), mean 
+	degrees, exponents, etc.
+
+	Optional part: for each of the Monte Carlo simulations, find the theoretical predictions given by the Microscopic 
+	Markov Chain Approach.
+
+	The delivery must include:
+
+		Source code
+		Networks used in Pajek format
+		Result files
+		Document with plots of the results, specifying the network and "all" the parameters of the simulations
+
+	Monte Carlo simulations may take a long computing time, 	thus it is preferable to use compiled programming languages. 
+	In general, and specially if you are using an interpreted language (e.g. python, Matlab, octave, R), 
+	first try with small networks, reduced number of time steps and a few repetitions, before sending the definitive 
+	long simulations.

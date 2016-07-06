@@ -1,0 +1,24 @@
+
+ Exercise 2: Community analysis
+ ------------------------------
+
+	Apply at least three different algorithms of community detection to the attached networks. It is not necessary to 
+	implement them, you may use any free access programs you like. At least one of the algorithms must be based on 
+	the optimization of modularity, and you must use at least two different programs (i.e. do not use all algorithms 
+	from the same program).
+
+	Some of the provided networks come with a reference partition, obtained from real information of the network. In 
+	those cases, you must compare your partitions with the reference ones, using at least the following standard
+	measures: Jaccard Index, Normalized Mutual Information and Normalized Variation of Information. Once again, you 
+	don't need to implement them, they can be calculated e.g. using Radatools.
+
+	The delivery must include:
+
+		Brief description of the algorithms and programs used
+		Selected parameters for each algorithm and/or network, and the used scripts (if any)
+		The partitions in Pajek format
+		Plots of the networks with their partitions
+		A table with the comparison measures
+		The modularities of all partitions (real partitions included)
+
+	We do not expect the partitions you obtain to be equal to the real ones or between them, except in certain cases.

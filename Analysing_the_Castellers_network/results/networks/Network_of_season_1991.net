@@ -1,0 +1,253 @@
+*vertices 24
+1 "Nens del Vendrell" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05A50>" color "[1, 1, 0]"
+2 "Castellers de Terrassa" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05250>" color "[1, 1, 0]"
+3 "Castellers de Vilafranca" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05070>" color "[1, 1, 0]"
+4 "Minyons de Terrassa" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13050>" color "[1, 1, 0]"
+5 "Castellers de Cornella" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05D34C90>" color "[0, 1, 0]"
+6 "Colla Joves Xiquets de Valls" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05510>" color "[1, 1, 0]"
+7 "Xiquets de la Vila dAlcover" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13A30>" color "[1, 1, 0]"
+8 "Colla Jove de Vilanova" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13950>" color "[1, 1, 0]"
+9 "Vailets de Gelida" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13B10>" color "[1, 1, 0]"
+10 "Xicots de Vilafranca" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05F547F0>" color "[1, 1, 0]"
+11 "Castellers de Barcelona" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05B50>" color "[1, 1, 0]"
+12 "Xiquets del Serrallo" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C135F0>" color "[1, 1, 0]"
+13 "Nois de la Torre" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C053D0>" color "[1, 1, 0]"
+14 "Colla Jove Xiquets de Tarragona" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13190>" color "[1, 1, 0]"
+15 "Colla Vella dels Xiquets de Valls" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05690>" color "[1, 1, 0]"
+16 "Castellers de Montcada i Reixac" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05F59DD0>" color "[0, 1, 0]"
+17 "Castellers de Santa Coloma" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13550>" color "[1, 1, 0]"
+18 "Xiquets de Tarragona" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05C70>" color "[1, 1, 0]"
+19 "Bordegassos de Vilanova" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05E30>" color "[1, 1, 0]"
+20 "Xiquets de Reus" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C133B0>" color "[1, 1, 0]"
+21 "Castellers de Sant Pere i Sant Pau" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13710>" color "[1, 1, 0]"
+22 "Xiquets de VilaSeca" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C05130>" color "[0, 1, 0]"
+23 "Xics de Granollers" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C13830>" color "[0, 1, 0]"
+24 "Castellers de Castelldefels" 0.0 0.0 ellipse crew "<colla.Colla object at 0x05C134B0>" color "[1, 1, 0]"
+*arcs
+1 14 2.0 type know_how type know_how color blue color blue
+1 6 3.0 type know_how type know_how color blue color blue
+1 15 1.0 type know_how type know_how color blue color blue
+1 20 0.5 type know_how type know_how color blue color blue
+1 3 1.0 type know_how type know_how color blue color blue
+1 11 1.0 type know_how type know_how color blue color blue
+1 18 2.0 type know_how type know_how color blue color blue
+1 4 0.5 type know_how type know_how color blue color blue
+1 2 2.0 type know_how type know_how color blue color blue
+2 14 0.5 type know_how type know_how color blue color blue
+2 6 1.5 type know_how type know_how color blue color blue
+2 15 1.5 type know_how type know_how color blue color blue
+2 3 2.5 type know_how type know_how color blue color blue
+2 4 5.0 type know_how type know_how color blue color blue
+2 11 0.5 type rivality type rivality color red color red
+3 6 0.5 type rivality type rivality color red color red
+3 15 0.5 type rivality type rivality color red color red
+4 14 0.5 type rivality type rivality color red color red
+4 3 2.5 type know_how type know_how color blue color blue
+4 15 0.5 type know_how type know_how color blue color blue
+4 6 0.5 type know_how type know_how color blue color blue
+5 4 1.0 type know_how type know_how color blue color blue
+5 21 0.5 type know_how type know_how color blue color blue
+5 8 1.0 type know_how type know_how color blue color blue
+5 19 0.5 type know_how type know_how color blue color blue
+5 11 0.5 type know_how type know_how color blue color blue
+5 10 0.5 type rivality type rivality color red color red
+6 3 0.5 type rivality type rivality color red color red
+6 15 2.5 type rivality type rivality color red color red
+7 14 2.5 type know_how type know_how color blue color blue
+7 1 1.0 type know_how type know_how color blue color blue
+7 15 0.5 type know_how type know_how color blue color blue
+7 22 0.5 type rivality type rivality color red color red
+7 18 1.5 type know_how type know_how color blue color blue
+7 6 2.0 type know_how type know_how color blue color blue
+7 20 1.5 type know_how type know_how color blue color blue
+7 21 0.5 type rivality type rivality color red color red
+7 9 0.5 type rivality type rivality color red color red
+7 19 1.0 type know_how type know_how color blue color blue
+7 11 0.5 type know_how type know_how color blue color blue
+7 12 0.5 type rivality type rivality color red color red
+7 4 1.0 type know_how type know_how color blue color blue
+7 2 1.0 type know_how type know_how color blue color blue
+8 14 0.5 type know_how type know_how color blue color blue
+8 1 0.5 type know_how type know_how color blue color blue
+8 15 0.5 type know_how type know_how color blue color blue
+8 13 0.5 type rivality type rivality color red color red
+8 18 1.0 type know_how type know_how color blue color blue
+8 6 0.5 type know_how type know_how color blue color blue
+8 20 0.5 type know_how type know_how color blue color blue
+8 19 2.5 type know_how type know_how color blue color blue
+8 2 1.0 type know_how type know_how color blue color blue
+8 12 0.5 type rivality type rivality color red color red
+8 4 1.0 type know_how type know_how color blue color blue
+8 11 0.5 type know_how type know_how color blue color blue
+8 24 0.5 type know_how type know_how color blue color blue
+9 14 0.5 type know_how type know_how color blue color blue
+9 1 0.5 type know_how type know_how color blue color blue
+9 15 1.0 type know_how type know_how color blue color blue
+9 18 1.0 type know_how type know_how color blue color blue
+9 3 0.5 type know_how type know_how color blue color blue
+9 4 2.5 type know_how type know_how color blue color blue
+9 7 0.5 type rivality type rivality color red color red
+9 6 1.0 type know_how type know_how color blue color blue
+9 20 1.0 type know_how type know_how color blue color blue
+9 21 0.5 type rivality type rivality color red color red
+9 19 0.5 type know_how type know_how color blue color blue
+9 2 1.0 type know_how type know_how color blue color blue
+9 11 1.5 type know_how type know_how color blue color blue
+9 24 1.5 type rivality type rivality color red color red
+10 14 0.5 type know_how type know_how color blue color blue
+10 1 0.5 type know_how type know_how color blue color blue
+10 6 0.5 type know_how type know_how color blue color blue
+10 15 0.5 type know_how type know_how color blue color blue
+10 11 0.5 type know_how type know_how color blue color blue
+10 8 0.5 type know_how type know_how color blue color blue
+10 19 0.5 type know_how type know_how color blue color blue
+10 2 0.5 type know_how type know_how color blue color blue
+10 18 0.5 type know_how type know_how color blue color blue
+10 3 2.5 type know_how type know_how color blue color blue
+10 5 0.5 type rivality type rivality color red color red
+11 14 1.5 type know_how type know_how color blue color blue
+11 6 1.5 type know_how type know_how color blue color blue
+11 15 1.0 type know_how type know_how color blue color blue
+11 2 0.5 type rivality type rivality color red color red
+11 3 3.0 type know_how type know_how color blue color blue
+11 4 5.5 type know_how type know_how color blue color blue
+11 18 0.5 type rivality type rivality color red color red
+12 14 8.5 type know_how type know_how color blue color blue
+12 1 2.0 type know_how type know_how color blue color blue
+12 15 1.0 type know_how type know_how color blue color blue
+12 13 1.0 type rivality type rivality color red color red
+12 3 0.5 type know_how type know_how color blue color blue
+12 18 10.5 type know_how type know_how color blue color blue
+12 7 0.5 type rivality type rivality color red color red
+12 6 2.0 type know_how type know_how color blue color blue
+12 20 0.5 type know_how type know_how color blue color blue
+12 21 1.0 type rivality type rivality color red color red
+12 8 0.5 type rivality type rivality color red color red
+12 2 1.0 type know_how type know_how color blue color blue
+12 4 0.5 type know_how type know_how color blue color blue
+12 11 2.0 type know_how type know_how color blue color blue
+12 24 1.0 type rivality type rivality color red color red
+13 14 1.0 type know_how type know_how color blue color blue
+13 1 1.0 type know_how type know_how color blue color blue
+13 15 1.0 type know_how type know_how color blue color blue
+13 3 0.5 type know_how type know_how color blue color blue
+13 18 2.0 type know_how type know_how color blue color blue
+13 6 2.0 type know_how type know_how color blue color blue
+13 20 1.0 type know_how type know_how color blue color blue
+13 8 0.5 type rivality type rivality color red color red
+13 19 0.5 type know_how type know_how color blue color blue
+13 11 1.0 type know_how type know_how color blue color blue
+13 12 1.0 type rivality type rivality color red color red
+13 4 0.5 type know_how type know_how color blue color blue
+13 2 1.5 type know_how type know_how color blue color blue
+13 24 0.5 type rivality type rivality color red color red
+14 3 1.5 type know_how type know_how color blue color blue
+14 4 0.5 type rivality type rivality color red color red
+14 6 2.5 type know_how type know_how color blue color blue
+15 6 2.5 type rivality type rivality color red color red
+15 3 0.5 type rivality type rivality color red color red
+17 14 0.5 type know_how type know_how color blue color blue
+17 1 0.5 type know_how type know_how color blue color blue
+17 15 0.5 type know_how type know_how color blue color blue
+17 13 0.5 type know_how type know_how color blue color blue
+17 22 0.5 type rivality type rivality color red color red
+17 18 0.5 type know_how type know_how color blue color blue
+17 7 0.5 type know_how type know_how color blue color blue
+17 6 0.5 type know_how type know_how color blue color blue
+17 20 0.5 type know_how type know_how color blue color blue
+17 21 0.5 type know_how type know_how color blue color blue
+17 8 0.5 type know_how type know_how color blue color blue
+17 9 0.5 type know_how type know_how color blue color blue
+17 19 0.5 type know_how type know_how color blue color blue
+17 23 0.5 type rivality type rivality color red color red
+17 2 0.5 type know_how type know_how color blue color blue
+17 12 0.5 type know_how type know_how color blue color blue
+17 4 0.5 type know_how type know_how color blue color blue
+17 11 0.5 type know_how type know_how color blue color blue
+17 24 0.5 type know_how type know_how color blue color blue
+18 14 6.5 type know_how type know_how color blue color blue
+18 6 3.0 type know_how type know_how color blue color blue
+18 15 1.5 type know_how type know_how color blue color blue
+18 3 0.5 type know_how type know_how color blue color blue
+18 4 0.5 type know_how type know_how color blue color blue
+18 11 0.5 type rivality type rivality color red color red
+19 14 0.5 type know_how type know_how color blue color blue
+19 6 1.5 type know_how type know_how color blue color blue
+19 15 0.5 type know_how type know_how color blue color blue
+19 20 1.5 type know_how type know_how color blue color blue
+19 11 1.5 type know_how type know_how color blue color blue
+19 18 0.5 type know_how type know_how color blue color blue
+19 4 0.5 type know_how type know_how color blue color blue
+19 3 0.5 type know_how type know_how color blue color blue
+20 14 2.5 type know_how type know_how color blue color blue
+20 6 3.0 type know_how type know_how color blue color blue
+20 15 2.0 type know_how type know_how color blue color blue
+20 3 1.5 type know_how type know_how color blue color blue
+20 4 1.0 type know_how type know_how color blue color blue
+20 11 1.0 type know_how type know_how color blue color blue
+21 14 4.5 type know_how type know_how color blue color blue
+21 1 1.0 type know_how type know_how color blue color blue
+21 15 0.5 type know_how type know_how color blue color blue
+21 22 1.5 type rivality type rivality color red color red
+21 18 4.5 type know_how type know_how color blue color blue
+21 7 0.5 type rivality type rivality color red color red
+21 6 1.0 type know_how type know_how color blue color blue
+21 20 1.0 type know_how type know_how color blue color blue
+21 9 0.5 type rivality type rivality color red color red
+21 11 0.5 type know_how type know_how color blue color blue
+21 12 1.0 type rivality type rivality color red color red
+21 4 0.5 type know_how type know_how color blue color blue
+21 2 0.5 type know_how type know_how color blue color blue
+21 24 0.5 type rivality type rivality color red color red
+22 14 1.5 type know_how type know_how color blue color blue
+22 1 1.0 type know_how type know_how color blue color blue
+22 4 0.5 type know_how type know_how color blue color blue
+22 20 1.5 type know_how type know_how color blue color blue
+22 13 0.5 type know_how type know_how color blue color blue
+22 17 0.5 type rivality type rivality color red color red
+22 18 1.5 type know_how type know_how color blue color blue
+22 7 0.5 type rivality type rivality color red color red
+22 6 1.5 type know_how type know_how color blue color blue
+22 15 0.5 type know_how type know_how color blue color blue
+22 21 1.5 type rivality type rivality color red color red
+22 8 0.5 type know_how type know_how color blue color blue
+22 19 0.5 type know_how type know_how color blue color blue
+22 23 0.5 type rivality type rivality color red color red
+22 2 0.5 type know_how type know_how color blue color blue
+22 12 1.0 type know_how type know_how color blue color blue
+22 11 0.5 type know_how type know_how color blue color blue
+22 24 1.0 type know_how type know_how color blue color blue
+23 14 0.5 type know_how type know_how color blue color blue
+23 1 0.5 type know_how type know_how color blue color blue
+23 15 0.5 type know_how type know_how color blue color blue
+23 13 0.5 type know_how type know_how color blue color blue
+23 22 0.5 type rivality type rivality color red color red
+23 17 0.5 type rivality type rivality color red color red
+23 18 0.5 type know_how type know_how color blue color blue
+23 7 0.5 type know_how type know_how color blue color blue
+23 6 1.0 type know_how type know_how color blue color blue
+23 20 0.5 type know_how type know_how color blue color blue
+23 21 0.5 type know_how type know_how color blue color blue
+23 8 0.5 type know_how type know_how color blue color blue
+23 9 0.5 type know_how type know_how color blue color blue
+23 19 0.5 type know_how type know_how color blue color blue
+23 2 0.5 type know_how type know_how color blue color blue
+23 12 0.5 type know_how type know_how color blue color blue
+23 4 0.5 type know_how type know_how color blue color blue
+23 11 0.5 type know_how type know_how color blue color blue
+23 24 1.5 type know_how type know_how color blue color blue
+24 14 1.0 type know_how type know_how color blue color blue
+24 1 1.0 type know_how type know_how color blue color blue
+24 4 2.0 type know_how type know_how color blue color blue
+24 13 0.5 type rivality type rivality color red color red
+24 3 1.5 type know_how type know_how color blue color blue
+24 18 1.0 type know_how type know_how color blue color blue
+24 6 1.0 type know_how type know_how color blue color blue
+24 20 0.5 type know_how type know_how color blue color blue
+24 21 0.5 type rivality type rivality color red color red
+24 9 1.5 type rivality type rivality color red color red
+24 19 0.5 type know_how type know_how color blue color blue
+24 2 2.5 type know_how type know_how color blue color blue
+24 12 1.0 type rivality type rivality color red color red
+24 11 3.0 type know_how type know_how color blue color blue
+24 15 1.0 type know_how type know_how color blue color blue
